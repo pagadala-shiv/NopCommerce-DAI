@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		284,
+		538,
+		146,
+		68
+	],
+	"lastmodifieddate": 1793346477.888,
+	"createddate": 1793346477.888,
+	"name": "ADDTOCART",
+	"lastfounddate": 1793350390.4660001,
+	"ocrcapturestring": "ADD TO CART",
+	"lastfoundlocation": [
+		284,
+		391,
+		146,
+		68
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 51259,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[73,34]",
+					"Tolerance": "_53",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System",
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe"
+				},
+				"name": "ADDTOCART.png",
+				"connectionname": "first_SUT",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					284,
+					538,
+					146,
+					68
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "ADD TO CART"
+			}
+	]
+}

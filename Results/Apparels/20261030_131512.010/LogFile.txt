@@ -1,0 +1,5 @@
+﻿2026-10-30 13:15:12.027 +0530	START		Running Apparels.script
+2026-10-30 13:15:13.184 +0530	click	(TEXT:"Apparel")	at (434, 290)	1	on_apparels	Apparels.script
+2026-10-30 13:15:36.626 +0530	Exception	shoes	No Image Found On Screen: "shoes"	2	on_apparels	Apparels.script
+2026-10-30 13:15:36.638 +0530	EndTestCase		(Duration:"24.608", Errors:"1", Exceptions:"1", StartTime:"2026-10-30 13:15:12 +0530", Successes:"0", TestCase:"Apparels.script", Warnings:"0")
+2026-10-30 13:15:36.808 +0530	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "shoes" -- Execution Time 0:00:24 Apparels.script

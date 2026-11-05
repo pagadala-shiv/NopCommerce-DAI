@@ -1,0 +1,9 @@
+﻿2026-10-29 15:08:13.351 +0530	START		Running launch.script
+2026-10-29 15:08:13.459 +0530	typetext		[windowsKey]r	2	on_launch	launch.script
+2026-10-29 15:08:20.599 +0530	typetext		chrome	5	on_launch	launch.script
+2026-10-29 15:08:23.115 +0530	typetext		[returnKey]	6	on_launch	launch.script
+2026-10-29 15:08:28.675 +0530	typetext		[controlKey]l	9	on_launch	launch.script
+2026-10-29 15:08:33.830 +0530	typetext		https://demo.nopcommerce.com/	12	on_launch	launch.script
+2026-10-29 15:08:35.234 +0530	typetext		[returnKey]	13	on_launch	launch.script
+2026-10-29 15:12:21.615 +0530	EndTestCase		(Duration:"248.259", Errors:"1", Exceptions:"0", StartTime:"2026-10-29 15:08:13 +0530", Successes:"0", TestCase:"launch.script", Warnings:"0")
+2026-10-29 15:12:21.625 +0530	ABORTED		Execution Time 0:04:08 launch.script

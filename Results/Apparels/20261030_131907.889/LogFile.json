@@ -1,0 +1,65 @@
+{
+	"entries": [
+		{
+				"message": "Running Apparels.script",
+				"identifier": "START",
+				"timestamp": "2026-10-30 13:19:07.908 +0530"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 13:19:08.787 +0530",
+				"scriptName": "Apparels.script",
+				"message": "at (434, 290)",
+				"image": "(TEXT:\"Apparel\")",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 13:19:09.493 +0530",
+				"message": "moved 2",
+				"scriptName": "Apparels.script",
+				"handlerLine": 2,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 13:19:09.641 +0530",
+				"scriptName": "Apparels.script",
+				"message": "found at (400, 445)",
+				"image": "shoes",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 13:19:10.447 +0530",
+				"scriptName": "Apparels.script",
+				"message": "at (400, 445)",
+				"image": "shoes",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 13:19:11.459 +0530",
+				"scriptName": "Apparels.script",
+				"message": "Could Not Open Image: ADD TO CART",
+				"image": "ADD TO CART",
+				"handlerLine": 7,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"3.566\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2026-10-30 13:19:07 +0530\", Successes:\"0\", TestCase:\"Apparels.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-10-30 13:19:11.478 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "File Not Found: ImageFound Error - Could Not Open Image: ADD TO CART -- Execution Time 0:00:03 Apparels.script",
+				"identifier": "FAILURE",
+				"timestamp": "2026-10-30 13:19:11.697 +0530"
+			}
+	],
+	"createdTimestamp": "2026-10-30 13:19:07.910 +0530"
+}

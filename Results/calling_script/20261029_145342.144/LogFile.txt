@@ -1,0 +1,3 @@
+﻿2026-10-29 14:53:42.151 +0530	START		Running calling_script.script
+2026-10-29 14:53:42.283 +0530	EndTestCase		(Duration:"0.123", Errors:"1", Exceptions:"0", StartTime:"2026-10-29 14:53:42 +0530", Successes:"0", TestCase:"calling_script.script", Warnings:"0")
+2026-10-29 14:53:42.323 +0530	FAILURE		STUnknownMessage: ERROR: No Such Command: 'launchbrowser' -- Execution Time 0:00:00 calling_script.script

@@ -1,0 +1,11 @@
+﻿2026-10-29 15:33:17.969 +0530	START		Running Register.script
+2026-10-29 15:33:18.822 +0530	click	(TEXT:"Register")	at (344, 63)	1	on_register	Register.script
+2026-10-29 15:33:20.538 +0530	click	(TEXT:"Male")	at (336, 548)	2	on_register	Register.script
+2026-10-29 15:33:22.178 +0530	click	(TEXT:"First name")	at (257, 599)	3	on_register	Register.script
+2026-10-29 15:33:23.006 +0530	typetext		shiv	4	on_register	Register.script
+2026-10-29 15:33:24.789 +0530	click	(TEXT:"Last name")	at (257, 654)	5	on_register	Register.script
+2026-10-29 15:33:25.742 +0530	typetext		pagadala	6	on_register	Register.script
+2026-10-29 15:33:27.443 +0530	click	(TEXT:"Email")	at (272, 709)	7	on_register	Register.script
+2026-10-29 15:33:28.691 +0530	typetext		test123@gmail.com	8	on_register	Register.script
+2026-10-29 15:33:28.714 +0530	EndTestCase		(Duration:"10.742", Errors:"0", Exceptions:"0", StartTime:"2026-10-29 15:33:17 +0530", Successes:"1", TestCase:"Register.script", Warnings:"0")
+2026-10-29 15:33:28.782 +0530	SUCCESS		Execution Time 0:00:10 Register.script

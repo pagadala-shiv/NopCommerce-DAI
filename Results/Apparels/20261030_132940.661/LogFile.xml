@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Apparels_script" package="NopCommerce.suite" timestamp="2026-10-30 13:29:40.661 +0530"
+ tests="1"  failures="0" errors="0" time="25.040000">
+  <properties>
+   <property name="RunDate" value="2026-10-30 13:29:40.661 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Apparels.script" assertions="1" status="error"  time="25.024">
+    <error type="Exception" message="Unable To Find Any Image On Screen &quot;ADDTOCART&quot; within 2.00 seconds" />
+  </testcase>
+ </testsuite>
+</testsuites>

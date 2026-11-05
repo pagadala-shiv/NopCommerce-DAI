@@ -1,0 +1,62 @@
+{
+	"entries": [
+		{
+				"message": "Running searchProduct.script",
+				"identifier": "START",
+				"timestamp": "2026-10-30 12:02:29.069 +0530"
+			},
+		{
+				"handlerName": "on_searchproduct",
+				"timestamp": "2026-10-30 12:02:29.352 +0530",
+				"scriptName": "searchProduct.script",
+				"message": "at (806, 188)",
+				"image": "search_box_nop",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_searchproduct",
+				"timestamp": "2026-10-30 12:02:30.201 +0530",
+				"message": "iPad",
+				"scriptName": "searchProduct.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_searchproduct",
+				"timestamp": "2026-10-30 12:02:30.938 +0530",
+				"message": "[returnKey]",
+				"scriptName": "searchProduct.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_searchproduct",
+				"timestamp": "2026-10-30 12:02:31.950 +0530",
+				"message": "Search completed: iPad",
+				"scriptName": "searchProduct.script",
+				"handlerLine": 7,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_searchproduct",
+				"timestamp": "2026-10-30 12:02:32.187 +0530",
+				"scriptName": "searchProduct.script",
+				"message": "at (146, 186)",
+				"image": "nopCommerce_icon",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"3.152\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-10-30 12:02:29 +0530\", Successes:\"1\", TestCase:\"searchProduct.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-10-30 12:02:32.227 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:03 searchProduct.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-10-30 12:02:32.295 +0530"
+			}
+	],
+	"createdTimestamp": "2026-10-30 12:02:29.072 +0530"
+}

@@ -1,0 +1,39 @@
+{
+	"entries": [
+		{
+				"message": "Running Apparels.script",
+				"identifier": "START",
+				"timestamp": "2026-10-30 13:15:12.027 +0530"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 13:15:13.184 +0530",
+				"scriptName": "Apparels.script",
+				"message": "at (434, 290)",
+				"image": "(TEXT:\"Apparel\")",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 13:15:36.626 +0530",
+				"scriptName": "Apparels.script",
+				"message": "No Image Found On Screen: \"shoes\"",
+				"image": "shoes",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"24.608\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2026-10-30 13:15:12 +0530\", Successes:\"0\", TestCase:\"Apparels.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-10-30 13:15:36.638 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"shoes\" -- Execution Time 0:00:24 Apparels.script",
+				"identifier": "FAILURE",
+				"timestamp": "2026-10-30 13:15:36.808 +0530"
+			}
+	],
+	"createdTimestamp": "2026-10-30 13:15:12.029 +0530"
+}

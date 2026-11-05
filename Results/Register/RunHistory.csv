@@ -1,0 +1,8 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2026-10-29 15:30:39.519 +0530,"Failure",0:00:00,1,0,1,"20261029_153039.519/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Register",0
+2026-10-29 15:30:51.877 +0530,"Success",0:00:02,0,0,0,"20261029_153051.877/LogFile.txt","","",1
+2026-10-29 15:33:17.951 +0530,"Success",0:00:10,0,0,0,"20261029_153317.951/LogFile.txt","","",1
+2026-10-29 15:38:12.116 +0530,"Failure",0:01:03,1,0,1,"20261029_153812.116/LogFile.txt","","Image Not Found -- click Error - No Text Found On Screen: ""(TEXT:""Confirm password"")"". Text not found.",0
+2026-10-29 15:39:40.021 +0530,"Success",0:00:48,0,0,0,"20261029_153940.021/LogFile.txt","","",1
+2026-10-29 15:43:03.946 +0530,"Success",0:00:46,0,0,0,"20261029_154303.946/LogFile.txt","","",1
+2026-10-29 16:26:56.436 +0530,"Aborted",0:00:41,1,0,1,"20261029_162656.436/LogFile.txt","","",0

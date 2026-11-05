@@ -1,0 +1,55 @@
+{
+	"entries": [
+		{
+				"message": "Running shopping_cart.script",
+				"identifier": "START",
+				"timestamp": "2026-10-30 12:01:43.616 +0530"
+			},
+		{
+				"handlerName": "on_shopping_cart",
+				"timestamp": "2026-10-30 12:01:44.397 +0530",
+				"scriptName": "shopping_cart.script",
+				"message": "at (921, 108)",
+				"image": "(TEXT:\"shopping cart\")",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_shopping_cart",
+				"timestamp": "2026-10-30 12:01:45.244 +0530",
+				"scriptName": "shopping_cart.script",
+				"message": "found at (504, 413)",
+				"image": "Shoppingcart_title",
+				"handlerLine": 2,
+				"identifier": "ImageFound"
+			},
+		{
+				"handlerName": "on_shopping_cart",
+				"timestamp": "2026-10-30 12:01:45.249 +0530",
+				"message": "Assertion Succeeded: (true: ImageFound(\"Shoppingcart_title\"))",
+				"scriptName": "shopping_cart.script",
+				"handlerLine": 2,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_shopping_cart",
+				"timestamp": "2026-10-30 12:01:45.493 +0530",
+				"scriptName": "shopping_cart.script",
+				"message": "at (146, 186)",
+				"image": "nopCommerce_icon",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"1.912\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-10-30 12:01:43 +0530\", Successes:\"1\", TestCase:\"shopping_cart.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-10-30 12:01:45.532 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:01 shopping_cart.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-10-30 12:01:45.600 +0530"
+			}
+	],
+	"createdTimestamp": "2026-10-30 12:01:43.618 +0530"
+}

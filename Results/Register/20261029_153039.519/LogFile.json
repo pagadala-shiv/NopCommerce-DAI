@@ -1,0 +1,30 @@
+{
+	"entries": [
+		{
+				"message": "Running Register.script",
+				"identifier": "START",
+				"timestamp": "2026-10-29 15:30:39.526 +0530"
+			},
+		{
+				"handlerName": "on_register",
+				"timestamp": "2026-10-29 15:30:39.573 +0530",
+				"scriptName": "Register.script",
+				"message": "Could Not Open Image: Register",
+				"image": "Register",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"0.091\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2026-10-29 15:30:39 +0530\", Successes:\"0\", TestCase:\"Register.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-10-29 15:30:39.621 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "File Not Found: click Error - Could Not Open Image: Register -- Execution Time 0:00:00 Register.script",
+				"identifier": "FAILURE",
+				"timestamp": "2026-10-29 15:30:39.902 +0530"
+			}
+	],
+	"createdTimestamp": "2026-10-29 15:30:39.529 +0530"
+}

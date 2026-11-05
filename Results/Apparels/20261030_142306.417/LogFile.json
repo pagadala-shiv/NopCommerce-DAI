@@ -1,0 +1,115 @@
+{
+	"entries": [
+		{
+				"message": "Running Apparels.script",
+				"identifier": "START",
+				"timestamp": "2026-10-30 14:23:06.435 +0530"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:23:07.276 +0530",
+				"scriptName": "Apparels.script",
+				"message": "at (434, 290)",
+				"image": "(TEXT:\"Apparel\")",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:23:07.977 +0530",
+				"message": "moved 2",
+				"scriptName": "Apparels.script",
+				"handlerLine": 2,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:23:08.180 +0530",
+				"scriptName": "Apparels.script",
+				"message": "found at (400, 445)",
+				"image": "shoes",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:23:08.978 +0530",
+				"scriptName": "Apparels.script",
+				"message": "at (400, 445)",
+				"image": "shoes",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:23:09.679 +0530",
+				"message": "moved 8",
+				"scriptName": "Apparels.script",
+				"handlerLine": 6,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:23:09.832 +0530",
+				"scriptName": "Apparels.script",
+				"message": "found at (357, 425)",
+				"image": "ADDTOCART",
+				"handlerLine": 7,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:23:10.586 +0530",
+				"scriptName": "Apparels.script",
+				"message": "at (357, 425)",
+				"image": "ADDTOCART",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:23:11.331 +0530",
+				"message": "[pageDown]",
+				"scriptName": "Apparels.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:23:11.879 +0530",
+				"scriptName": "Apparels.script",
+				"message": "found at (547, 181)",
+				"image": "size_selection",
+				"handlerLine": 11,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:23:12.233 +0530",
+				"scriptName": "Apparels.script",
+				"message": "at (547, 181)",
+				"image": "size_selection",
+				"handlerLine": 12,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:23:12.996 +0530",
+				"message": "8[returnKey]",
+				"scriptName": "Apparels.script",
+				"handlerLine": 13,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"6.578\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-10-30 14:23:06 +0530\", Successes:\"1\", TestCase:\"Apparels.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-10-30 14:23:13.016 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:06 Apparels.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-10-30 14:23:13.090 +0530"
+			}
+	],
+	"createdTimestamp": "2026-10-30 14:23:06.437 +0530"
+}

@@ -1,0 +1,4 @@
+﻿2026-10-29 15:30:51.892 +0530	START		Running Register.script
+2026-10-29 15:30:54.104 +0530	click	(TEXT:"Register")	at (651, 108)	1	on_register	Register.script
+2026-10-29 15:30:54.123 +0530	EndTestCase		(Duration:"2.228", Errors:"0", Exceptions:"0", StartTime:"2026-10-29 15:30:51 +0530", Successes:"1", TestCase:"Register.script", Warnings:"0")
+2026-10-29 15:30:54.184 +0530	SUCCESS		Execution Time 0:00:02 Register.script

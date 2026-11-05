@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="Apparels">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>14</NumberOfRuns>
+  <NumberOfFails>11</NumberOfFails>
+  <FirstRun>2026-10-30 13:15:12 +0530</FirstRun>
+  <LastRun>2026-10-30 14:23:06 +0530</LastRun>
+  <TotalTimeOnSuccess>21.351000</TotalTimeOnSuccess>
+ </script>
+ <script name="calling_script">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>9</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2026-10-29 14:53:42 +0530</FirstRun>
+  <LastRun>2026-10-29 15:18:03 +0530</LastRun>
+  <TotalTimeOnSuccess>1.353000</TotalTimeOnSuccess>
+ </script>
+ <script name="searchProduct">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2026-10-29 15:27:24 +0530</FirstRun>
+  <LastRun>2026-10-30 12:02:29 +0530</LastRun>
+  <TotalTimeOnSuccess>8.924000</TotalTimeOnSuccess>
+ </script>
+ <script name="shopping_cart">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2026-10-29 16:35:32 +0530</FirstRun>
+  <LastRun>2026-10-30 12:01:43 +0530</LastRun>
+  <TotalTimeOnSuccess>21.722000</TotalTimeOnSuccess>
+ </script>
+ <script name="Register">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2026-10-29 15:30:39 +0530</FirstRun>
+  <LastRun>2026-10-29 15:43:03 +0530</LastRun>
+  <TotalTimeOnSuccess>108.475000</TotalTimeOnSuccess>
+ </script>
+ <script name="launch">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>13</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2026-10-29 14:54:42 +0530</FirstRun>
+  <LastRun>2026-11-02 17:31:30 +0530</LastRun>
+  <TotalTimeOnSuccess>15.369000</TotalTimeOnSuccess>
+ </script>
+</statistics>

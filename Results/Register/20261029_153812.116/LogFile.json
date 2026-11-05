@@ -1,0 +1,142 @@
+{
+	"entries": [
+		{
+				"message": "Running Register.script",
+				"identifier": "START",
+				"timestamp": "2026-10-29 15:38:12.132 +0530"
+			},
+		{
+				"handlerName": "on_register",
+				"timestamp": "2026-10-29 15:38:13.074 +0530",
+				"scriptName": "Register.script",
+				"message": "at (651, 108)",
+				"image": "(TEXT:\"Register\")",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_register",
+				"timestamp": "2026-10-29 15:38:14.726 +0530",
+				"scriptName": "Register.script",
+				"message": "at (336, 548)",
+				"image": "(TEXT:\"Male\")",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_register",
+				"timestamp": "2026-10-29 15:38:16.364 +0530",
+				"scriptName": "Register.script",
+				"message": "at (257, 599)",
+				"image": "(TEXT:\"First name\")",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_register",
+				"timestamp": "2026-10-29 15:38:17.189 +0530",
+				"message": "shiv",
+				"scriptName": "Register.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_register",
+				"timestamp": "2026-10-29 15:38:18.936 +0530",
+				"scriptName": "Register.script",
+				"message": "at (257, 654)",
+				"image": "(TEXT:\"Last name\")",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_register",
+				"timestamp": "2026-10-29 15:38:19.889 +0530",
+				"message": "pagadala",
+				"scriptName": "Register.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_register",
+				"timestamp": "2026-10-29 15:38:21.604 +0530",
+				"scriptName": "Register.script",
+				"message": "at (272, 709)",
+				"image": "(TEXT:\"Email\")",
+				"handlerLine": 7,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_register",
+				"timestamp": "2026-10-29 15:38:22.864 +0530",
+				"message": "test123@gmail.com",
+				"scriptName": "Register.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_register",
+				"timestamp": "2026-10-29 15:38:36.300 +0530",
+				"scriptName": "Register.script",
+				"message": "Unable to Find Image (TEXT:\"password\"). Text not found.",
+				"image": "(TEXT:\"password\")",
+				"handlerLine": 9,
+				"identifier": "ImageFound"
+			},
+		{
+				"handlerName": "on_register",
+				"timestamp": "2026-10-29 15:38:36.337 +0530",
+				"message": "[pageDown]",
+				"scriptName": "Register.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_register",
+				"timestamp": "2026-10-29 15:38:37.941 +0530",
+				"scriptName": "Register.script",
+				"message": "found at (526, 650)",
+				"image": "(TEXT:\"password\")",
+				"handlerLine": 11,
+				"identifier": "ImageFound"
+			},
+		{
+				"handlerName": "on_register",
+				"timestamp": "2026-10-29 15:38:38.939 +0530",
+				"scriptName": "Register.script",
+				"message": "at (526, 650)",
+				"image": "(TEXT:\"password\")",
+				"handlerLine": 13,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_register",
+				"timestamp": "2026-10-29 15:38:40.000 +0530",
+				"message": "password@12",
+				"scriptName": "Register.script",
+				"handlerLine": 14,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_register",
+				"timestamp": "2026-10-29 15:39:15.174 +0530",
+				"scriptName": "Register.script",
+				"message": "No Text Found On Screen: \"(TEXT:\"Confirm password\")\". Text not found.",
+				"image": "(TEXT:\"Confirm password\")",
+				"handlerLine": 15,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"63.058\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2026-10-29 15:38:12 +0530\", Successes:\"0\", TestCase:\"Register.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-10-29 15:39:15.194 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Text Found On Screen: \"(TEXT:\"Confirm password\")\". Text not found. -- Execution Time 0:01:03 Register.script",
+				"identifier": "FAILURE",
+				"timestamp": "2026-10-29 15:39:15.300 +0530"
+			}
+	],
+	"createdTimestamp": "2026-10-29 15:38:12.135 +0530"
+}

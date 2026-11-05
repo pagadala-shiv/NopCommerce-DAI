@@ -1,0 +1,4 @@
+﻿2026-10-29 15:05:10.423 +0530	START		Running calling_script.script
+2026-10-29 15:05:10.624 +0530	typetext		[windowsKey]r	1	on_calling_script	calling_script.script
+2026-10-29 15:05:11.705 +0530	EndTestCase		(Duration:"1.262", Errors:"0", Exceptions:"0", StartTime:"2026-10-29 15:05:10 +0530", Successes:"1", TestCase:"calling_script.script", Warnings:"0")
+2026-10-29 15:05:11.918 +0530	SUCCESS		Execution Time 0:00:01 calling_script.script

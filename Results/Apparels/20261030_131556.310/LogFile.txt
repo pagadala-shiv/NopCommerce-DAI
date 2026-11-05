@@ -1,0 +1,5 @@
+﻿2026-10-30 13:15:56.325 +0530	START		Running Apparels.script
+2026-10-30 13:15:57.487 +0530	click	(TEXT:"Apparel")	at (434, 290)	1	on_apparels	Apparels.script
+2026-10-30 13:16:19.770 +0530	Exception	shoes	Unable To Find Any Image On Screen "shoes" within 2.00 seconds	2	on_apparels	Apparels.script
+2026-10-30 13:16:19.783 +0530	EndTestCase		(Duration:"23.455", Errors:"1", Exceptions:"1", StartTime:"2026-10-30 13:15:56 +0530", Successes:"0", TestCase:"Apparels.script", Warnings:"0")
+2026-10-30 13:16:19.936 +0530	FAILURE	Screen_Error.png	Image Not Found: WaitFor Error - Unable To Find Any Image On Screen "shoes" within 2.00 seconds -- Execution Time 0:00:23 Apparels.script

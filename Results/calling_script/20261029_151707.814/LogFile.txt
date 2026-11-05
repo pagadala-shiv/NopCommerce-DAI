@@ -1,0 +1,3 @@
+﻿2026-10-29 15:17:07.824 +0530	START		Running calling_script.script
+2026-10-29 15:17:07.831 +0530	EndTestCase		(Duration:"0", Errors:"0", Exceptions:"0", StartTime:"2026-10-29 15:17:07 +0530", Successes:"1", TestCase:"calling_script.script", Warnings:"0")
+2026-10-29 15:17:07.904 +0530	SUCCESS		Execution Time 0:00:00 calling_script.script

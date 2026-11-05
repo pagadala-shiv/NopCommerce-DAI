@@ -1,0 +1,46 @@
+{
+	"entries": [
+		{
+				"message": "Running Apparels.script",
+				"identifier": "START",
+				"timestamp": "2026-10-30 14:14:05.324 +0530"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:14:06.436 +0530",
+				"scriptName": "Apparels.script",
+				"message": "at (434, 290)",
+				"image": "(TEXT:\"Apparel\")",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:14:07.149 +0530",
+				"message": "moved 2",
+				"scriptName": "Apparels.script",
+				"handlerLine": 2,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:14:18.189 +0530",
+				"scriptName": "Apparels.script",
+				"message": "Unable To Find Any Image On Screen \"shoes\" within 2.00 seconds",
+				"image": "shoes",
+				"handlerLine": 4,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"12.894\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2026-10-30 14:14:05 +0530\", Successes:\"0\", TestCase:\"Apparels.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-10-30 14:14:18.227 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:12 Apparels.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-10-30 14:14:18.237 +0530"
+			}
+	],
+	"createdTimestamp": "2026-10-30 14:14:05.329 +0530"
+}

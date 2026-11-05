@@ -1,0 +1,6 @@
+﻿2026-10-30 14:14:05.324 +0530	START		Running Apparels.script
+2026-10-30 14:14:06.436 +0530	click	(TEXT:"Apparel")	at (434, 290)	1	on_apparels	Apparels.script
+2026-10-30 14:14:07.149 +0530	scrollwheeldown		moved 2	2	on_apparels	Apparels.script
+2026-10-30 14:14:18.189 +0530	Exception	shoes	Unable To Find Any Image On Screen "shoes" within 2.00 seconds	4	on_apparels	Apparels.script
+2026-10-30 14:14:18.227 +0530	EndTestCase		(Duration:"12.894", Errors:"1", Exceptions:"1", StartTime:"2026-10-30 14:14:05 +0530", Successes:"0", TestCase:"Apparels.script", Warnings:"0")
+2026-10-30 14:14:18.237 +0530	ABORTED		Execution Time 0:00:12 Apparels.script

@@ -1,0 +1,68 @@
+{
+	"entries": [
+		{
+				"message": "Running launch.script",
+				"identifier": "START",
+				"timestamp": "2026-10-29 15:08:13.351 +0530"
+			},
+		{
+				"handlerName": "on_launch",
+				"timestamp": "2026-10-29 15:08:13.459 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "launch.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launch",
+				"timestamp": "2026-10-29 15:08:20.599 +0530",
+				"message": "chrome",
+				"scriptName": "launch.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launch",
+				"timestamp": "2026-10-29 15:08:23.115 +0530",
+				"message": "[returnKey]",
+				"scriptName": "launch.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launch",
+				"timestamp": "2026-10-29 15:08:28.675 +0530",
+				"message": "[controlKey]l",
+				"scriptName": "launch.script",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launch",
+				"timestamp": "2026-10-29 15:08:33.830 +0530",
+				"message": "https://demo.nopcommerce.com/",
+				"scriptName": "launch.script",
+				"handlerLine": 12,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launch",
+				"timestamp": "2026-10-29 15:08:35.234 +0530",
+				"message": "[returnKey]",
+				"scriptName": "launch.script",
+				"handlerLine": 13,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"248.259\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-10-29 15:08:13 +0530\", Successes:\"0\", TestCase:\"launch.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-10-29 15:12:21.615 +0530"
+			},
+		{
+				"message": "Execution Time 0:04:08 launch.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-10-29 15:12:21.625 +0530"
+			}
+	],
+	"createdTimestamp": "2026-10-29 15:08:13.356 +0530"
+}

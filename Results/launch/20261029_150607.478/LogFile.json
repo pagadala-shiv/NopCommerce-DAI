@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running launch.script",
+				"identifier": "START",
+				"timestamp": "2026-10-29 15:06:07.486 +0530"
+			},
+		{
+				"handlerName": "on_launch",
+				"timestamp": "2026-10-29 15:06:07.582 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "launch.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launch",
+				"timestamp": "2026-10-29 15:06:15.679 +0530",
+				"message": "browser",
+				"scriptName": "launch.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"41.838\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-10-29 15:06:07 +0530\", Successes:\"0\", TestCase:\"launch.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-10-29 15:06:49.330 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:41 launch.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-10-29 15:06:49.340 +0530"
+			}
+	],
+	"createdTimestamp": "2026-10-29 15:06:07.490 +0530"
+}

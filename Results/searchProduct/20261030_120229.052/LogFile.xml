@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="searchProduct_script" package="NopCommerce.suite" timestamp="2026-10-30 12:02:29.052 +0530"
+ tests="1"  failures="0" errors="0" time="3.173000">
+  <properties>
+   <property name="RunDate" value="2026-10-30 12:02:29.052 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="searchProduct.script" assertions="1" status="success"  time="3.152">
+  </testcase>
+ </testsuite>
+</testsuites>

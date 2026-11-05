@@ -1,0 +1,15 @@
+﻿Click text: "Apparel"
+ScrollWheelDown 2
+
+WaitFor 2, "shoes"
+click "shoes"
+ScrollWheelDown 8
+WaitFor 2, "ADDTOCART"
+Click "ADDTOCART"
+
+TypeText pageDown 
+WaitFor 2, "size_selection"
+Click "size_selection"
+TypeText "8", returnKey
+
+

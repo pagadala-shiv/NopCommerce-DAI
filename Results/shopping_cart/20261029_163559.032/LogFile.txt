@@ -1,0 +1,6 @@
+﻿2026-10-29 16:35:59.040 +0530	START		Running shopping_cart.script
+2026-10-29 16:35:59.996 +0530	click	(TEXT:"shopping cart")	at (921, 108)	1	on_shopping_cart	shopping_cart.script
+2026-10-29 16:36:04.103 +0530	ImageFound	(TEXT:"shopping cart")	found at (921, 108)	2	on_shopping_cart	shopping_cart.script
+2026-10-29 16:36:04.106 +0530	LogSuccess		Assertion Succeeded: (true: ImageFound(text: "shopping cart"))	2	on_shopping_cart	shopping_cart.script
+2026-10-29 16:36:04.133 +0530	EndTestCase		(Duration:"5.089", Errors:"0", Exceptions:"0", StartTime:"2026-10-29 16:35:59 +0530", Successes:"1", TestCase:"shopping_cart.script", Warnings:"0")
+2026-10-29 16:36:04.206 +0530	SUCCESS		Execution Time 0:00:05 shopping_cart.script

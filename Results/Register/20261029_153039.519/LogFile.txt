@@ -1,0 +1,4 @@
+﻿2026-10-29 15:30:39.526 +0530	START		Running Register.script
+2026-10-29 15:30:39.573 +0530	Exception	Register	Could Not Open Image: Register	1	on_register	Register.script
+2026-10-29 15:30:39.621 +0530	EndTestCase		(Duration:"0.091", Errors:"1", Exceptions:"1", StartTime:"2026-10-29 15:30:39 +0530", Successes:"0", TestCase:"Register.script", Warnings:"0")
+2026-10-29 15:30:39.902 +0530	FAILURE	Screen_Error.png	File Not Found: click Error - Could Not Open Image: Register -- Execution Time 0:00:00 Register.script

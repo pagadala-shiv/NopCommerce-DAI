@@ -1,0 +1,9 @@
+﻿2026-10-30 13:29:40.675 +0530	START		Running Apparels.script
+2026-10-30 13:29:41.808 +0530	click	(TEXT:"Apparel")	at (434, 290)	1	on_apparels	Apparels.script
+2026-10-30 13:29:42.525 +0530	scrollwheeldown		moved 2	2	on_apparels	Apparels.script
+2026-10-30 13:29:42.655 +0530	waitfor	shoes	found at (400, 445)	4	on_apparels	Apparels.script
+2026-10-30 13:29:43.459 +0530	click	shoes	at (400, 445)	5	on_apparels	Apparels.script
+2026-10-30 13:29:44.164 +0530	scrollwheeldown		moved 5	6	on_apparels	Apparels.script
+2026-10-30 13:30:05.661 +0530	Exception	ADDTOCART	Unable To Find Any Image On Screen "ADDTOCART" within 2.00 seconds	7	on_apparels	Apparels.script
+2026-10-30 13:30:05.703 +0530	EndTestCase		(Duration:"25.024", Errors:"1", Exceptions:"1", StartTime:"2026-10-30 13:29:40 +0530", Successes:"0", TestCase:"Apparels.script", Warnings:"0")
+2026-10-30 13:30:05.711 +0530	ABORTED		Execution Time 0:00:25 Apparels.script

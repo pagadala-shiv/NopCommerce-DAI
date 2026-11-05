@@ -1,0 +1,7 @@
+﻿2026-10-30 12:01:56.434 +0530	START		Running searchProduct.script
+2026-10-30 12:01:56.651 +0530	click	search_box_nop	at (806, 188)	2	on_searchproduct	searchProduct.script
+2026-10-30 12:01:57.498 +0530	typetext		iPad	4	on_searchproduct	searchProduct.script
+2026-10-30 12:01:58.245 +0530	typetext		[returnKey]	5	on_searchproduct	searchProduct.script
+2026-10-30 12:01:59.258 +0530	Log		Search completed: iPad	7	on_searchproduct	searchProduct.script
+2026-10-30 12:01:59.273 +0530	EndTestCase		(Duration:"2.832", Errors:"0", Exceptions:"0", StartTime:"2026-10-30 12:01:56 +0530", Successes:"1", TestCase:"searchProduct.script", Warnings:"0")
+2026-10-30 12:01:59.350 +0530	SUCCESS		Execution Time 0:00:02 searchProduct.script

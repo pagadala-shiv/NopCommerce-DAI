@@ -1,0 +1,53 @@
+{
+	"entries": [
+		{
+				"message": "Running searchProduct.script",
+				"identifier": "START",
+				"timestamp": "2026-10-30 12:01:56.434 +0530"
+			},
+		{
+				"handlerName": "on_searchproduct",
+				"timestamp": "2026-10-30 12:01:56.651 +0530",
+				"scriptName": "searchProduct.script",
+				"message": "at (806, 188)",
+				"image": "search_box_nop",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_searchproduct",
+				"timestamp": "2026-10-30 12:01:57.498 +0530",
+				"message": "iPad",
+				"scriptName": "searchProduct.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_searchproduct",
+				"timestamp": "2026-10-30 12:01:58.245 +0530",
+				"message": "[returnKey]",
+				"scriptName": "searchProduct.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_searchproduct",
+				"timestamp": "2026-10-30 12:01:59.258 +0530",
+				"message": "Search completed: iPad",
+				"scriptName": "searchProduct.script",
+				"handlerLine": 7,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"2.832\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2026-10-30 12:01:56 +0530\", Successes:\"1\", TestCase:\"searchProduct.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-10-30 12:01:59.273 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:02 searchProduct.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2026-10-30 12:01:59.350 +0530"
+			}
+	],
+	"createdTimestamp": "2026-10-30 12:01:56.437 +0530"
+}

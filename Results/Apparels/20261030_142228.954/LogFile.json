@@ -1,0 +1,89 @@
+{
+	"entries": [
+		{
+				"message": "Running Apparels.script",
+				"identifier": "START",
+				"timestamp": "2026-10-30 14:22:28.965 +0530"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:22:29.822 +0530",
+				"scriptName": "Apparels.script",
+				"message": "at (434, 290)",
+				"image": "(TEXT:\"Apparel\")",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:22:30.538 +0530",
+				"message": "moved 2",
+				"scriptName": "Apparels.script",
+				"handlerLine": 2,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:22:30.722 +0530",
+				"scriptName": "Apparels.script",
+				"message": "found at (400, 445)",
+				"image": "shoes",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:22:31.523 +0530",
+				"scriptName": "Apparels.script",
+				"message": "at (400, 445)",
+				"image": "shoes",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:22:32.226 +0530",
+				"message": "moved 8",
+				"scriptName": "Apparels.script",
+				"handlerLine": 6,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:22:32.380 +0530",
+				"scriptName": "Apparels.script",
+				"message": "found at (357, 425)",
+				"image": "ADDTOCART",
+				"handlerLine": 7,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:22:33.176 +0530",
+				"scriptName": "Apparels.script",
+				"message": "at (357, 425)",
+				"image": "ADDTOCART",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_apparels",
+				"timestamp": "2026-10-30 14:22:33.922 +0530",
+				"message": "[pageDown]",
+				"scriptName": "Apparels.script",
+				"handlerLine": 11,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"15.846\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2026-10-30 14:22:28 +0530\", Successes:\"0\", TestCase:\"Apparels.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2026-10-30 14:22:44.814 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:15 Apparels.script",
+				"identifier": "ABORTED",
+				"timestamp": "2026-10-30 14:22:44.825 +0530"
+			}
+	],
+	"createdTimestamp": "2026-10-30 14:22:28.967 +0530"
+}

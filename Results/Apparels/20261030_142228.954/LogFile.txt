@@ -1,0 +1,11 @@
+﻿2026-10-30 14:22:28.965 +0530	START		Running Apparels.script
+2026-10-30 14:22:29.822 +0530	click	(TEXT:"Apparel")	at (434, 290)	1	on_apparels	Apparels.script
+2026-10-30 14:22:30.538 +0530	scrollwheeldown		moved 2	2	on_apparels	Apparels.script
+2026-10-30 14:22:30.722 +0530	waitfor	shoes	found at (400, 445)	4	on_apparels	Apparels.script
+2026-10-30 14:22:31.523 +0530	click	shoes	at (400, 445)	5	on_apparels	Apparels.script
+2026-10-30 14:22:32.226 +0530	scrollwheeldown		moved 8	6	on_apparels	Apparels.script
+2026-10-30 14:22:32.380 +0530	waitfor	ADDTOCART	found at (357, 425)	7	on_apparels	Apparels.script
+2026-10-30 14:22:33.176 +0530	click	ADDTOCART	at (357, 425)	8	on_apparels	Apparels.script
+2026-10-30 14:22:33.922 +0530	typetext		[pageDown]	11	on_apparels	Apparels.script
+2026-10-30 14:22:44.814 +0530	EndTestCase		(Duration:"15.846", Errors:"1", Exceptions:"0", StartTime:"2026-10-30 14:22:28 +0530", Successes:"0", TestCase:"Apparels.script", Warnings:"0")
+2026-10-30 14:22:44.825 +0530	ABORTED		Execution Time 0:00:15 Apparels.script

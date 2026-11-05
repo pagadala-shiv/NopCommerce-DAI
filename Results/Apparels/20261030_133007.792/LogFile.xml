@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Apparels_script" package="NopCommerce.suite" timestamp="2026-10-30 13:30:07.792 +0530"
+ tests="1"  failures="0" errors="0" time="17.401000">
+  <properties>
+   <property name="RunDate" value="2026-10-30 13:30:07.792 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Apparels.script" assertions="1" status="error"  time="17.381">
+    <error type="Exception" message="No Image Found On Screen: &quot;size_selection&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

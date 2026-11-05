@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Apparels_script" package="NopCommerce.suite" timestamp="2026-10-30 13:29:04.536 +0530"
+ tests="1"  failures="1" errors="1" time="5.177000">
+  <properties>
+   <property name="RunDate" value="2026-10-30 13:29:04.536 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Apparels.script" assertions="1" status="error"  time="5.158">
+    <failure type="FAILURE" message="File Not Found: EveryImageLocation Error - Could Not Open Image: ADD TO CART  -- Execution Time 0:00:05 Apparels.script" />
+    <error type="Exception" message="Could Not Open Image: ADD TO CART " />
+  </testcase>
+ </testsuite>
+</testsuites>

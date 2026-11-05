@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Apparels_script" package="NopCommerce.suite" timestamp="2026-10-30 14:22:28.954 +0530"
+ tests="1"  failures="0" errors="0" time="15.859000">
+  <properties>
+   <property name="RunDate" value="2026-10-30 14:22:28.954 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Apparels.script" assertions="1" status="failure"  time="15.846">
+    <failure type="FAILURE" message="See main script" />
+  </testcase>
+ </testsuite>
+</testsuites>

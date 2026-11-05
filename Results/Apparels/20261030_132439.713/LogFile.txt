@@ -1,0 +1,8 @@
+﻿2026-10-30 13:24:39.726 +0530	START		Running Apparels.script
+2026-10-30 13:24:40.640 +0530	click	(TEXT:"Apparel")	at (434, 290)	1	on_apparels	Apparels.script
+2026-10-30 13:24:41.355 +0530	scrollwheeldown		moved 2	2	on_apparels	Apparels.script
+2026-10-30 13:24:41.486 +0530	waitfor	shoes	found at (400, 445)	4	on_apparels	Apparels.script
+2026-10-30 13:24:42.290 +0530	click	shoes	at (400, 445)	5	on_apparels	Apparels.script
+2026-10-30 13:24:42.298 +0530	Exception	ADD TO CART	Could Not Open Image: ADD TO CART	8	on_apparels	Apparels.script
+2026-10-30 13:24:42.321 +0530	EndTestCase		(Duration:"2.591", Errors:"1", Exceptions:"1", StartTime:"2026-10-30 13:24:39 +0530", Successes:"0", TestCase:"Apparels.script", Warnings:"0")
+2026-10-30 13:24:42.566 +0530	FAILURE	Screen_Error.png	File Not Found: ImageFound Error - Could Not Open Image: ADD TO CART -- Execution Time 0:00:02 Apparels.script

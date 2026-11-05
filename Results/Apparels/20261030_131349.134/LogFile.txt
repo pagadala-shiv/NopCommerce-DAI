@@ -1,0 +1,8 @@
+﻿2026-10-30 13:13:49.144 +0530	START		Running Apparels.script
+2026-10-30 13:13:50.287 +0530	click	(TEXT:"Apparel")	at (434, 290)	1	on_apparels	Apparels.script
+2026-10-30 13:13:52.217 +0530	click	(TEXT:"shoes")	at (448, 330)	2	on_apparels	Apparels.script
+2026-10-30 13:14:08.291 +0530	ImageFound	(TEXT:"ADD TO CART")	Unable to Find Image (TEXT:"ADD TO CART"). Text not found.	3	on_apparels	Apparels.script
+2026-10-30 13:14:08.330 +0530	typetext		[pageDown]	4	on_apparels	Apparels.script
+2026-10-30 13:14:18.671 +0530	Exception		Searching For Image: OCR Error: Operation was aborted	5	on_apparels	Apparels.script
+2026-10-30 13:14:18.693 +0530	EndTestCase		(Duration:"29.543", Errors:"1", Exceptions:"1", StartTime:"2026-10-30 13:13:49 +0530", Successes:"0", TestCase:"Apparels.script", Warnings:"0")
+2026-10-30 13:14:18.702 +0530	ABORTED		Execution Time 0:00:29 Apparels.script
