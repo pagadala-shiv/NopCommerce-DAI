@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		14,
+		148,
+		265,
+		76
+	],
+	"lastmodifieddate": 1793341871.1859999,
+	"createddate": 1793341871.1859999,
+	"name": "nopCommerce_icon",
+	"lastfounddate": 1793347233.0050001,
+	"ocrcapturestring": "nopCommerce",
+	"lastfoundlocation": [
+		14,
+		148,
+		265,
+		76
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 51259,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[132,38]",
+					"Tolerance": "_65",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe",
+					"Type": "Single System"
+				},
+				"name": "nopCommerce_icon.png",
+				"connectionname": "first_SUT",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					14,
+					148,
+					265,
+					76
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "nopCommerce"
+			}
+	]
+}

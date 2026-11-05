@@ -1,0 +1,13 @@
+﻿to addCart selectOption, HddOption
+	if HddOption is empty then
+		put "default value" into HddOption
+	end if
+	ScrollWheelDown 4
+	WaitFor 2, "size_selection"
+	Click "size_selection"
+	TypeText  selectOption, returnKey
+	Click "ADDTOCART"
+end addCart
+
+addCart "2GB", "320GB"
+addCart "8"

@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		257,
+		407,
+		262,
+		230
+	],
+	"lastmodifieddate": 1793351243.707,
+	"createddate": 1793351243.707,
+	"name": "Desktops",
+	"lastfounddate": 1793351244.767,
+	"ocrcapturestring": "Desktops",
+	"lastfoundlocation": [
+		257,
+		406,
+		262,
+		230
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 51259,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[131,115]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System",
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe"
+				},
+				"name": "Desktops.png",
+				"connectionname": "first_SUT",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					257,
+					407,
+					262,
+					230
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Desktops"
+			}
+	]
+}

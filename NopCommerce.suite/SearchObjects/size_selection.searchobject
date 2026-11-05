@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		484,
+		417,
+		129,
+		45
+	],
+	"lastmodifieddate": 1793343295.6670001,
+	"createddate": 1793343295.6670001,
+	"name": "size_selection",
+	"lastfounddate": 1793350027.3699999,
+	"ocrcapturestring": "Please select",
+	"lastfoundlocation": [
+		494,
+		174,
+		109,
+		25
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 51259,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[64,22]",
+					"Tolerance": "_69",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe",
+					"Type": "Single System"
+				},
+				"name": "size_selection.png",
+				"connectionname": "first_SUT",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					484,
+					417,
+					129,
+					45
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Please select"
+			}
+	]
+}

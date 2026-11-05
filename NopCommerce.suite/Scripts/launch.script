@@ -1,0 +1,12 @@
+﻿
+(*
+
+TypeText WindowsKey & "r"
+TypeText "chrome", return
+wait 1
+TypeText "https://demo.nopcommerce.com/"
+TypeText Return
+*)
+
+
+testHandler "chrome"

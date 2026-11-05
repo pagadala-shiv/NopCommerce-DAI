@@ -1,0 +1,10 @@
+﻿
+Click "search_box_nop"
+put "iPad" into productName
+TypeText productName
+TypeText returnKey
+Wait 1
+log "Search completed: " & productName
+click "nopCommerce_icon"
+
+

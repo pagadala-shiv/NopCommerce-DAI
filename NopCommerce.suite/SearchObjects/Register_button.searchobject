@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		417,
+		343,
+		171,
+		61
+	],
+	"lastmodifieddate": 1793268677.2309999,
+	"createddate": 1793268677.2309999,
+	"name": "Register_button",
+	"lastfounddate": 1793268830.694,
+	"ocrcapturestring": "REGISTER",
+	"lastfoundlocation": [
+		417,
+		323,
+		171,
+		61
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 56803,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[85,30]",
+					"Tolerance": "_53",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe",
+					"Type": "Single System"
+				},
+				"name": "Register_button.png",
+				"connectionname": "first_SUT",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					417,
+					343,
+					171,
+					61
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "REGISTER"
+			}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		394,
+		383,
+		221,
+		61
+	],
+	"lastmodifieddate": 1793272028.839,
+	"createddate": 1793272028.839,
+	"name": "Shoppingcart_title",
+	"lastfounddate": 1793341905.234,
+	"ocrcapturestring": "Shopping cart",
+	"lastfoundlocation": [
+		394,
+		383,
+		221,
+		61
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 56803,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[110,30]",
+					"Tolerance": "_55",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe",
+					"Type": "Single System"
+				},
+				"name": "Shoppingcart_title.png",
+				"connectionname": "first_SUT",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					394,
+					383,
+					221,
+					61
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Shopping cart"
+			}
+	]
+}

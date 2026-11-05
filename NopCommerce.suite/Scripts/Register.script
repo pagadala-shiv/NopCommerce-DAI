@@ -1,0 +1,17 @@
+﻿Click text:"Register"
+Click text:"Male"
+Click text: "First name"
+TypeText "shiv"
+Click text: "Last name"
+TypeText "pagadala"
+Click text:"Email"
+TypeText "test123@gmail.com"
+repeat until ImageFound(text: "confirm password")
+	TypeText pageDown
+end repeat
+put "password@12" into code
+Click "Password_field"
+TypeText code
+Click text: "Confirm password"
+Typetext code
+Click "Register_button"

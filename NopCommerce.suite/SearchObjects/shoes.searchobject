@@ -1,0 +1,74 @@
+{
+	"lastmodifieddate": 1793350148.03,
+	"lastfoundlocation": [
+		277,
+		352,
+		247,
+		186
+	],
+	"originalcapturelocation": [
+		277,
+		299,
+		247,
+		186
+	],
+	"createddate": 1793346283.6859999,
+	"lastfounddate": 1793350020.381,
+	"testlocationdata": [
+		{
+				"connectionportnum": 51259,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[123,93]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe",
+					"Type": "Single System"
+				},
+				"name": "shoes.png",
+				"connectionname": "first_SUT",
+				"type": 1,
+				"capturerect": [
+					277,
+					299,
+					247,
+					186
+				],
+				"connectiontype": "Single System",
+				"connectionserverid": "127.0.0.1"
+			},
+		{
+				"connectionportnum": 51259,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Tolerance": "_30",
+					"HotSpot": "[123,93]",
+					"Scale": "    1",
+					"Discrepancy": "_0",
+					"SearchType": "Adaptive to Image"
+				},
+				"sutinfo": {
+					"epgw_path": "C:\\Program Files\\Eggplant\\Eggplant.app\\Resources\\epgw\\x64\\bin\\epgw.exe",
+					"Type": "Single System"
+				},
+				"name": "shoes.png",
+				"connectionname": "first_SUT",
+				"type": 1,
+				"capturerect": [
+					277,
+					299,
+					247,
+					186
+				],
+				"connectiontype": "Single System",
+				"connectionserverid": "127.0.0.1"
+			}
+	],
+	"name": "shoes"
+}
